@@ -1,0 +1,239 @@
+{
+  "devices": [
+    {
+      "id": 1,
+      "model": "Iphone 12 Pro Max",
+      "imei": 2133323432367493,
+      "eid": 2133323432367493,
+      "beschreibung": "Lorem ipsum dolor sit anet",
+      "serial_number": 2133323432367493,
+      "status": "In Use",
+      "intake_date": "2020-10-21",
+      "issue_date": "2020-10-21",
+      "device_ownership": "bought",
+      "warranty_start_date": "2020-10-21",
+      "warranty_end_date": "2021-10-21",
+      "asset_tag": 21432343,
+      "internal_po": "CSI 20212110"
+    },
+    {
+      "id": 2,
+      "model": "Iphone 12 Pro Max",
+      "imei": 2133323432367493,
+      "eid": 2133323432367493,
+      "beschreibung": "Lorem ipsum dolor sit anet",
+      "serial_number": 2133323432367493,
+      "status": "In Use",
+      "intake_date": "2020-10-21",
+      "issue_date": "2020-10-21",
+      "device_ownership": "bought",
+      "warranty_start_date": "2020-10-21",
+      "warranty_end_date": "2021-10-21",
+      "asset_tag": 21432343,
+      "internal_po": "CSI 20212110"
+    },
+    {
+      "id": 3,
+      "model": "Iphone 12 Pro Max",
+      "imei": 2133323432367493,
+      "eid": 2133323432367493,
+      "beschreibung": "Lorem ipsum dolor sit anet",
+      "serial_number": 2133323432367493,
+      "status": "In Use",
+      "intake_date": "2020-10-21",
+      "issue_date": "2020-10-21",
+      "device_ownership": "bought",
+      "warranty_start_date": "2020-10-21",
+      "warranty_end_date": "2021-10-21",
+      "asset_tag": 21432343,
+      "internal_po": "CSI 20212110"
+    }
+  ],
+  "organizations": [
+    {
+      "id": 1,
+      "name": "dotWhite",
+      "description": "Other some lorem",
+      "isDefault": "false",
+      "departments": [
+        {
+          "id": 1,
+          "name": "HR"
+        },
+        {
+          "id": 4,
+          "name": "Quality Control"
+        },
+        {
+          "id": 2,
+          "name": "Procurement"
+        },
+        {
+          "id": 3,
+          "name": "Finance"
+        }
+      ],
+      "costCenters": [
+        {
+          "name": "Cost Center 1"
+        },
+        {
+          "name": "Cost Center 1"
+        },
+        {
+          "name": "Cost Center 2"
+        },
+        {
+          "name": "cost center 3"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Berlin",
+      "description": "Lorem ipsum dolor sit amet",
+      "isDefault": "false",
+      "departments": [
+        {
+          "id": 3,
+          "name": "Finance"
+        },
+        {
+          "id": 2,
+          "name": "Procurement"
+        }
+      ],
+      "costCenters": [
+        {
+          "name": "Cost Center 1"
+        },
+        {
+          "name": "Cost Center 1"
+        },
+        {
+          "name": "Cost Center 2"
+        },
+        {
+          "name": "jkhjk"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Cristina ancuta",
+      "description": "Some other lorem",
+      "isDefault": "false",
+      "departments": [
+        {
+          "id": 1,
+          "name": "HR"
+        },
+        {
+          "id": 4,
+          "name": "Quality Control"
+        },
+        {
+          "id": 2,
+          "name": "Procurement"
+        },
+        {
+          "id": 3,
+          "name": "Finance"
+        },
+        {
+          "id": 2,
+          "name": "Procurement"
+        },
+        {
+          "id": 4,
+          "name": "Quality Control"
+        }
+      ],
+      "costCenters": [
+        {
+          "name": "Cost Center 1"
+        },
+        {
+          "name": "Cost Center 1"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Berlin",
+      "description": "Lorem ipsum dolor sit amet",
+      "isDefault": "false",
+      "departments": [
+        {
+          "id": 1,
+          "name": "HR"
+        },
+        {
+          "id": 4,
+          "name": "Quality Control"
+        },
+        {
+          "id": 3,
+          "name": "Finance"
+        },
+        {
+          "id": 4,
+          "name": "Quality Control"
+        }
+      ],
+      "costCenters": [
+        {
+          "name": "Cost Center 1"
+        },
+        {
+          "name": "Cost Center 1"
+        },
+        {
+          "name": "cost center 3"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Cristian Bejenariu",
+      "description": "Lorem ipsum dolor sit amet",
+      "isDefault": "false",
+      "departments": [
+        {
+          "id": 1,
+          "name": "HR"
+        },
+        {
+          "id": 4,
+          "name": "Quality Control"
+        }
+      ],
+      "costCenters": [
+        {
+          "name": "Cost Center 1"
+        },
+        {
+          "name": "Cost Center 1"
+        }
+      ]
+    }
+  ],
+  "possibleDepartments": [
+    {
+      "id": 1,
+      "name": "HR"
+    },
+    {
+      "id": 2,
+      "name": "Procurement"
+    },
+    {
+      "id": 3,
+      "name": "Finance"
+    },
+    {
+      "id": 4,
+      "name": "Quality Control"
+    }
+  ]
+}
